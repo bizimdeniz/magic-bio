@@ -4,6 +4,8 @@ import {
   HiOutlineEnvelope,
 } from "react-icons/hi2";
 
+import { RiKickFill } from "react-icons/ri";
+
 import { FaDiscord, FaGithub, FaGoogle, FaLinkedin, FaX, FaYoutube, FaInstagram, FaThreads, FaKickstarter, FaTiktok  } from "react-icons/fa6";
 
 export const iconLibrary: Record<string, IconType> = {
@@ -16,7 +18,7 @@ export const iconLibrary: Record<string, IconType> = {
   x: FaX,
   email: HiOutlineEnvelope,
   threads: FaThreads,
-  kick: FaKickstarter,
+  kick: RiKickFill,
   tiktok: FaTiktok,
 };
 

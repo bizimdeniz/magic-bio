@@ -92,7 +92,7 @@ export default function Home() {
           <Text onBackground="neutral-weak">
             {new Date().getFullYear() + " "}
             {/* Usage of this template requires attribution. Please don't remove the link to Once UI. */}
-            / Build your bio with{" "}
+            / {" "}
             <SmartLink
               href="https://denizco.de"
             >

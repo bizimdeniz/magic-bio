@@ -9,7 +9,7 @@ const content = {
     {
       title: "DenizCo", // optional
       description: "Fully customizable design system for Next.js and Figma.", // optional
-      url: "https://denizco.de", // required if link object exists
+      url: "https://www.denizco.de/blog", // required if link object exists
       favicon: true
     },
     {

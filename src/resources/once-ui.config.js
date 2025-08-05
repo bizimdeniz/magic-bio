@@ -106,10 +106,10 @@ const effects = {
 
 // default metadata
 const meta = {
-  title: "Selene Yu - Bio",
+  title: "Harun Geckaldi - Bio",
   path: "/",
   description:
-    "My name is Selene Yu, I'm a Design Engineer and Creative.",
+    "My name is Harun Geckaldi, I'm a Designer and Creative.",
 };
 
 // default open graph data
@@ -124,19 +124,30 @@ const social = [
   // Links are automatically displayed.
   // Import new icons in /once-ui/icons.ts
   {
-    name: 'GitHub',
-    icon: 'github',
-    link: 'https://github.com/selene-yu',
+    name: 'Instagram',
+    icon: 'instagram',
+    link: 'https://www.instagram.com/bizimdeniz',
   },
   {
-    name: 'LinkedIn',
-    icon: 'linkedin',
-    link: 'https://www.linkedin.com/in/selene-yu',
+    name: 'Youtube',
+    icon: 'youtube',
+    link: 'https://www.youtube.com/@bizimdeniz',
   },
   {
-    name: 'Threads',
-    icon: 'threads',
-    link: 'https://www.threads.com/@selene.yu',
+    name: 'X',
+    icon: 'x',
+    link: 'https://x.com/bizimdeniz_',
+  },
+  {
+  {
+    name: 'Kick',
+    icon: 'kick',
+    link: 'https://kick.com/bizimdeniz',
+  },
+  {
+    name: 'Tiktok',
+    icon: 'tiktok',
+    link: 'https://www.tiktok.com/@bizimdeniz',
   },
 ]
 
@@ -146,7 +157,7 @@ const schema = {
   type: "person",
   name: meta.title,
   description: meta.description,
-  email: "selene.yu@gmail.com",
+  email: "hello@denizco.de",
 };
 
 export { baseURL, style, dataStyle, meta, og, schema, social, effects, fonts };

@@ -9,9 +9,9 @@ const content = {
    {
      title: "DenizCo", // optional
      description: "Fully customizable design system for Next.js and Figma.", // optional
-     cover: "/images/cover.jpg",
      url: "https://www.denizco.de/", // required if link object exists
-     favicon: false
+     favicon: false,
+     cover: "/images/cover.jpg"
     },
     {
       title: "Metadata Solutions", // optional

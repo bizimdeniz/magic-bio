@@ -20,8 +20,8 @@ const content = {
       favicon: false
     },
     {
-      title: "Design Engineers Club", // optional
-     url: "https://designengineers.club", // required if link object exists
+      title: "MaJesty PUBG Mobile", // optional
+     url: "https://majesty.dopler.io/", // required if link object exists
       favicon: false
     },
   ],

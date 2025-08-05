@@ -9,20 +9,19 @@ const content = {
     {
       title: "DenizCo", // optional
       description: "Fully customizable design system for Next.js and Figma.", // optional
-      url: "https://www.denizco.de/",
-      img: "/images/1.png",// required if link object exists
-      favicon: true
+      url: "https://www.denizco.de/", // required if link object exists
+      favicon: false
     },
     {
       title: "Metadata Solutions", // optional
       description: "A great company for all your digital needs", // optional
       url: "https://metadatasolutions.co.uk", // required if link object exists
-      favicon: true
+      favicon: false
     },
     {
       title: "Design Engineers Club", // optional
       url: "https://designengineers.club", // required if link object exists
-      favicon: true
+      favicon: false
     },
   ],
 };

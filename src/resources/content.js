@@ -13,9 +13,9 @@ const content = {
       favicon: false
     },
     {
-      title: "Magic Portfolio", // optional
-      description: "The most awesome portfolio boilerplate built with Once UI.", // optional
-      url: "https://magic-portfolio.com", // required if link object exists
+      title: "Metadata Solutions", // optional
+      description: "A great company for all your digital needs", // optional
+      url: "https://metadatasolutions.co.uk", // required if link object exists
       favicon: false
     },
     {

@@ -138,7 +138,7 @@ const social = [
     icon: 'x',
     link: 'https://x.com/bizimdeniz_',
   },
-  {
+  
   {
     name: 'Kick',
     icon: 'kick',

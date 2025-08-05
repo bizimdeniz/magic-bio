@@ -1,15 +1,15 @@
 // Profile data - all fields are optional
 const content = {
-  name: "Selene Yu", // optional
+  name: "Harun Geckaldi", // optional
   avatar: "/images/avatar.jpg", // optional
   cover: "/images/cover.jpg", // optional
-  bio: "Design Engineer + Creative", // optional
+  bio: "Designer + Creative", // optional
   links: [ // optional array
     // title, description and image are generated based on the link (if available) and not provided explicitly
     {
-      title: "Once UI", // optional
+      title: "DenizCo", // optional
       description: "Fully customizable design system for Next.js and Figma.", // optional
-      url: "https://once-ui.com", // required if link object exists
+      url: "https://denizco.de", // required if link object exists
       favicon: false
     },
     {

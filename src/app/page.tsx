@@ -94,9 +94,9 @@ export default function Home() {
             {/* Usage of this template requires attribution. Please don't remove the link to Once UI. */}
             / Build your bio with{" "}
             <SmartLink
-              href="https://once-ui.com/products/magic-bio"
+              href="https://denizco.de"
             >
-              Once UI
+              DenizCo.de
             </SmartLink>
           </Text>
         </Row>

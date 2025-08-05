@@ -156,7 +156,7 @@ const schema = {
   logo: "",
   type: "person",
   name: meta.title,
-  description: "meta.description",
+  description: meta.description,
   email: "hello@denizco.de",
 };
 

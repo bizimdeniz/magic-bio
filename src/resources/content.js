@@ -22,7 +22,7 @@ const content = {
     },
     {
       title: "Glowy Joy", // optional
-      description: "A great company for all your digital needs", // optional
+      description: "Beauty’s Radiant Touch", // optional
       url: "https://glowyjoy.co.uk", // required if link object exists
       favicon: false,
       
